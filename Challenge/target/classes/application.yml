@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: challenge
+  profiles:
+    active: desenvolvimento
+  thymeleaf:
+    check-template-location: false
+
+
+server:
+  port: 80
