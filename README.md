@@ -21,11 +21,13 @@ Executar o projeto: Após abrir o projeto, localize o arquivo principal do seu p
 
 Visualizar resultados: Depois de executar o projeto, você deve ver os resultados da execução no console do IntelliJ IDEA.</p>
 
-<h1>Diagrama</h1> 
+<h1>Diagrama</h1>
+
 <img src="documentacao/diagrama.png">
 
 <h1>Link do vídeo Pitch</h1>
 <p>https://youtu.be/faVvlJgejws?si=c5igOGIwzMorJecz</p>
 
 <h1>End points</h1>
+
 <img src="documentacao/img.png">
