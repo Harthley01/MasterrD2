@@ -23,11 +23,11 @@ Visualizar resultados: Depois de executar o projeto, você deve ver os resultado
 
 <h1>Diagrama</h1>
 
-<img src="documentacao/diagrama.png">
+<img src="documentacao/diagrama.png"/>
 
 <h1>Link do vídeo Pitch</h1>
 <p>https://youtu.be/faVvlJgejws?si=c5igOGIwzMorJecz</p>
 
 <h1>End points</h1>
 
-<img src="documentacao/img.png">
+<img src="documentacao/img.png"/>
